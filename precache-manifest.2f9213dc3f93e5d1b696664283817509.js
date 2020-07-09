@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e2f95f00522e0f433f13561d9d96ec75",
+    "revision": "24cd724f55aca9a6246fcf6602836a27",
     "url": "/js-polygon-test/index.html"
   },
   {
-    "revision": "9c169b63443228323195",
-    "url": "/js-polygon-test/static/css/main.a4de48b0.chunk.css"
+    "revision": "c501a5d025e593b0ff0a",
+    "url": "/js-polygon-test/static/css/main.57738bf0.chunk.css"
   },
   {
     "revision": "18258c87cfecabdccbd7",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js-polygon-test/static/js/2.a34b0282.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9c169b63443228323195",
-    "url": "/js-polygon-test/static/js/main.f461e16a.chunk.js"
+    "revision": "c501a5d025e593b0ff0a",
+    "url": "/js-polygon-test/static/js/main.e2af7ecd.chunk.js"
   },
   {
     "revision": "7c6a096687caa94109d3",
