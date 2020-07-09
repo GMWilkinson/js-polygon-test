@@ -2,7 +2,7 @@
   "name": "js-polygon-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://GMWilkinson.github.io/js-polygon-test"
+  "homepage": "http://GMWilkinson.github.io/js-polygon-test",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
